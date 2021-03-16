@@ -1,6 +1,6 @@
 ### 👋🏻 Hello there!
 
-My name is Łukasz and I'm a `Python` software developer. My interests go around **back-end** services *(Django, Flask, FastAPI)* and **Data Science** *(from data visualisation to machine learning)*. I also have some experience in creating mobile apps and managing dev teams.
+My name is Łukasz and I'm a `Python` software developer. My interests go around **back-end** services *(Django, Flask, FastAPI)* and **Data Science** *(from visualisation to machine learning)*. I also have some experience in creating mobile apps and managing dev teams.
 
 Currently writing awesome `code.py` at [@merixstudio](https://github.com/merixstudio) as a `PythonDeveloper`.
 
