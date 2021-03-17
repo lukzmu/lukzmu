@@ -1,13 +1,21 @@
-### 👋🏻 Hello there!
+```python
+from typing import Tuple
 
-My name is Łukasz and I'm a `Python` software developer. My interests go around **back-end** services *(Django, Flask, FastAPI)* and **Data Science** *(from visualisation to machine learning)*.
 
-Currently writing awesome `code.py` at [@merixstudio](https://github.com/merixstudio) as a `PythonDeveloper`.
-
-### 💬 Get in touch.
-
-- 👨🏻‍💻 **Personal website:** https://zmudzinski.me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/lukzmu/
-- 🐦 **Twitter:** https://twitter.com/lukzmu/
-
-*May the Force be with you.*
+class PythonDeveloper:
+    def __init__(self):
+        self.name = "Łukasz Żmudziński"
+        self.social_media = {
+            "linkedin": "https://www.linkedin.com/in/lukzmu/",
+            "twitter": "https://twitter.com/lukzmu/",
+            "personal_website": "https://zmudzinski.me",
+        }
+        self.company = "@merixstudio"
+    
+    def greet(self, you: str) -> str:
+        return f"Hello there {you}! My name is {self.name}. Nice to meet you!"
+    
+    @staticmethod
+    def get_back_end_frameworks() -> Tuple[str]:
+        return ("Django", "Flask", "FastAPI")
+```
