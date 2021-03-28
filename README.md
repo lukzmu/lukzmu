@@ -7,7 +7,6 @@ class PythonDeveloper:
         self.name = "Łukasz Żmudziński"
         self.social_media = {
             "linkedin": "https://www.linkedin.com/in/lukzmu/",
-            "twitter": "https://twitter.com/lukzmu/",
             "personal_website": "https://zmudzinski.me",
         }
         self.company = "@merixstudio"
