@@ -1,20 +1,16 @@
-```python
-from typing import Tuple
+# Hello there!
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=lukzmu)](https://github.com/lukzmu)
 
-class PythonDeveloper:
-    def __init__(self):
-        self.name = "Łukasz Żmudziński"
-        self.social_media = {
-            "linkedin": "https://www.linkedin.com/in/lukzmu/",
-            "personal_website": "https://zmudzinski.me",
-        }
-        self.company = "@merixstudio"
-    
-    def greet(self, you: str) -> str:
-        return f"Hello there {you}! My name is {self.name}. Nice to meet you!"
-    
-    @staticmethod
-    def get_back_end_frameworks() -> Tuple[str]:
-        return ("Django", "Flask", "FastAPI")
-```
+My name is **Łukasz Żmudziński** and I'm a `Software Developer` from Poland 🇵🇱 with over 10 years of experience. I love working on projects that are connected with AI, IoT, Robotics or Big Data... basically the bigger the challenge, the better!
+
+Currently writing code as `Python Developer` at [@merixstudio](https://github.com/merixstudio).
+
+### Interests
+
+`Python Programming` `Data Science` `Data Visualization` `Machine Learning` `Star Wars` `Warcraft` `Board Games` `Minimalism` `Fantasy Books` `Horse Riding` `Historical European Martial Arts`
+
+### Feel free to contact me
+
+- [LinkedIn](https://www.linkedin.com/in/lukzmu/)
+- [Personal Website](https://zmudzinski.me)
