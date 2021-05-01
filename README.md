@@ -8,7 +8,7 @@ Currently writing code as `Python Developer` at [@merixstudio](https://github.co
 
 ### Interests
 
-`Python Programming` `Data Science` `Data Visualization` `Machine Learning` `Star Wars` `Warcraft` `Board Games` `Minimalism` `Fantasy Books` `Horse Riding` `Historical European Martial Arts`
+`Python Programming` `Data Science` `Data Visualization` `Machine Learning` `Star Wars` `Warcraft` `Board Games` `Minimalism` `Fantasy Books` `Horse Riding` `Archery`
 
 ### Feel free to contact me
 
