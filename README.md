@@ -4,7 +4,7 @@
 
 My name is **Łukasz Żmudziński** and I'm a `Software Developer` from Poland 🇵🇱 with over 10 years of experience. PhD dropout that moved on to projects used by people. I love working on code that is related to AI, IoT, Robotics or Big Data... basically the bigger the challenge, the better! Big fan of hackathons and online courses - you can always learn something new 🌟.
 
-Currently writing code as `Python Developer` at [@merixstudio](https://github.com/merixstudio).
+Currently writing code as `Python Developer` and `Engineering Analyst` at [@merixstudio](https://github.com/merixstudio).
 
 ### Interests
 
