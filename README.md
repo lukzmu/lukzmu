@@ -6,4 +6,4 @@ Currently writing code as `Python Developer` and `Engineering Analyst` at [@meri
 
 ### Interests
 
-`Python Programming` `Data Science` `Data Visualization` `Machine Learning` `Star Wars` `Warcraft` `Board Games` `Minimalism` `Fantasy Books` `Drums`
+`Python Programming` `Data Science` `Data Visualization` `Machine Learning` `Star Wars` `Board Games` `Fantasy Books` `Drums`
