@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hello there 👋🏻
 
-<!--
-**divinebanana/divinebanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Łukasz ([@divinebanana](https://github.com/divinebanana)) and I'm a Python Engineer from Poland 🇵🇱.
 
-Here are some ideas to get you started:
+Over the last 10+ years I've been creating software for various companies and startups.
+I am coding in `Python`, mostly using `Django`, `FastAPI` and other `Backend` related packages.
+In my free time I'm extending my knowledge about internals of the language and learn new good coding practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Things I can help you with:**
+
+- Writing code for your `Python` project,
+- Leading technical teams,
+- Consulting architecture and cloud solutions.
+
+💻 I am currently working as a `Python Developer` at [@infermedica](https://github.com/infermedica). You can find our open job positions [over here](https://infermedica.com/careers). Good luck!
+
+---
+
+Although my current job takes my full professional attention, you are free to contact me in the following topics:
+
+✅ `digital health` `humanity` `animal welfare` `general science` `green energy` `agriculture`
+
+The following topics will be dismantled and exterminated (I won't reply):
+
+❌ `gambling` `hazard` `adult` `seo` `ecommerce`
+
+---
+
+May the Force be with you.
