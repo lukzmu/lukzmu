@@ -12,7 +12,7 @@ In my free time I'm extending my knowledge about internals of the language and l
 - Leading technical teams,
 - Consulting architecture and cloud solutions.
 
-💻 I am currently working as a `Senior Python Developer` at [@infermedica](https://github.com/infermedica). You can find our open job positions [over here](https://infermedica.com/careers). Good luck!
+💻 I am currently working as a `Senior Python Developer` at [@infermedica](https://github.com/infermedica). You can find our open job positions [over here](https://infermedica.com/careers).
 
 ---
 
