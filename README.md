@@ -1,6 +1,6 @@
 ### Hello there 👋🏻
 
-My name is Łukasz ([@divinebanana](https://github.com/divinebanana)) and I'm a Python Engineer from Poland 🇵🇱.
+My name is Łukasz ([@lukzmu](https://github.com/lukzmu)) and I'm a Python Engineer from Poland 🇵🇱.
 
 Over the last 10+ years I've been creating software for various companies and startups.
 I am coding in `Python`, mostly using `Django`, `FastAPI` and other `Backend` related packages.
