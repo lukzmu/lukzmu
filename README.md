@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello there 👋🏻
 
-<!--
-**lukzmu/lukzmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Łukasz and I'm a `Software Engineer` from Poland 🇵🇱.
 
-Here are some ideas to get you started:
+**Things I can help you with:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [x] Writing code for your Python project,
+- [x] Leading technical teams,
+- [x] Consulting architecture and cloud solutions,
+- [ ] Brewing a coffee with good latte art.
+
+✅ Although my current job takes my full professional attention, you are free to contact me in the following topics:
+
+`digital health` `humanity` `animal welfare` `general science` `green energy` `agriculture`
+
+❌ The following topics will be dismantled and exterminated (I won't reply):
+
+`gambling` `hazard` `adult` `seo` `ecommerce`
+
+May the Force be with you.
