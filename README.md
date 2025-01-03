@@ -1,6 +1,6 @@
 ## Hello there 👋🏻
 
-My name is Łukasz and I'm a `Software Engineer` from Poland 🇵🇱.
+My name is Łukasz and I'm a `Senior Python Engineer` from Poland 🇵🇱.
 
 **Things I can help you with:**
 
