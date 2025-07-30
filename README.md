@@ -1,20 +1,32 @@
-## Hello there 👋🏻
+```python
+import this as Python
 
-My name is Łukasz and I'm a `Senior Python Engineer` from Poland 🇵🇱.
+from corporate import Company, Role
+from world.humanity import Person
 
-**Things I can help you with:**
 
-- [x] Writing code for your Python project,
-- [x] Leading technical teams,
-- [x] Consulting architecture and cloud solutions,
-- [ ] Brewing a coffee with good latte art.
+class ComputerEngineer:
+    """Sith Academy dropout, had to learn to code. Still waiting for the sequel."""
 
-✅ Although my current job takes my full professional attention, you are free to contact me in the following topics:
+    def __init__(self) -> None:
+        self._person = Person(
+            name="Łukasz Żmudziński",
+            super_power=Python,
+            current_job=Company(
+                name="STX Next",
+                roles=(
+                    Role.BACKEND_TEAM_LEAD,
+                    Role.SENIOR_BACKEND_ENGINEER,
+                    Role.TECHNICAL_RECRUITER,
+                ),
+            ),
+            contact={
+                "website": "https://zmudzinski.sh",
+                "github": "https://github.com/lukzmu",
+                "linkedin": "https://www.linkedin.com/in/lukzmu/",
+            },
+        )
 
-`digital health` `humanity` `animal welfare` `general science` `green energy` `agriculture`
-
-❌ The following topics will be dismantled and exterminated (I won't reply):
-
-`gambling` `hazard` `adult` `seo` `ecommerce`
-
-May the Force be with you.
+    def hello_there(self) -> str:
+        return f"General {self._person.name}. You are a bold one!"
+```
