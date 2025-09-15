@@ -17,7 +17,7 @@ class ComputerEngineer:
                 roles=(
                     Role.BACKEND_TEAM_LEAD,
                     Role.SENIOR_BACKEND_ENGINEER,
-                    Role.TECHNICAL_RECRUITER
+                    Role.TECHNICAL_RECRUITER,
                 ),
             ),
             contact={
