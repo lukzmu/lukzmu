@@ -14,10 +14,14 @@ class ComputerEngineer:
             super_power=Python,
             current_job=Company(
                 name="STX Next",
-                roles=(Role.BACKEND_TEAM_LEAD, Role.SENIOR_BACKEND_ENGINEER, Role.TECHNICAL_RECRUITER),
+                roles=(
+                    Role.BACKEND_TEAM_LEAD,
+                    Role.SENIOR_BACKEND_ENGINEER,
+                    Role.TECHNICAL_RECRUITER
+                ),
             ),
             contact={
-                "website": "https://zmudzinski.sh",
+                "family_website": "https://zmudzinski.me",
                 "github": "https://github.com/lukzmu",
                 "linkedin": "https://www.linkedin.com/in/lukzmu/",
             },
