@@ -10,7 +10,7 @@ class ComputerEngineer:
 
     def __init__(self) -> None:
         self._person = Person(
-            name="Łukasz Żmudziński",
+            name="Lukasz Zmudzinski",
             super_power=Python,
             current_job=Company(
                 name="STX Next",
@@ -23,7 +23,7 @@ class ComputerEngineer:
             contact={
                 "website": "https://zmudzinski.sh",
                 "github": "https://github.com/lukzmu",
-                "linkedin": "https://www.linkedin.com/in/lukzmu/",
+                "linkedin": "https://www.linkedin.com/in/lukzmu",
             },
         )
 
