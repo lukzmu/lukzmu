@@ -21,7 +21,7 @@ class ComputerEngineer:
                 ),
             ),
             contact={
-                "website": "https://zmudzinski.sh",
+                "website": "https://zmudzinski.me",
                 "github": "https://github.com/lukzmu",
                 "linkedin": "https://www.linkedin.com/in/lukzmu",
             },
