@@ -15,7 +15,7 @@ class ComputerEngineer:
             current_job=Company(
                 name="STX Next",
                 roles=(
-                    Role.BACKEND_TEAM_LEAD,
+                    Role.COMMUNITY_COORDINATOR,
                     Role.SENIOR_BACKEND_ENGINEER,
                     Role.TECHNICAL_RECRUITER,
                 ),
