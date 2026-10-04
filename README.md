@@ -1,6 +1,4 @@
 ```python
-import this as Python
-
 from corporate import Company, Role
 from world.humanity import Person
 
@@ -11,12 +9,11 @@ class ComputerEngineer:
     def __init__(self) -> None:
         self._person = Person(
             name="Lukasz Zmudzinski",
-            super_power=Python,
             current_job=Company(
                 name="STX Next",
                 roles=(
+                    Role.DATA_ENGINEER,
                     Role.COMMUNITY_COORDINATOR,
-                    Role.SENIOR_BACKEND_ENGINEER,
                     Role.TECHNICAL_RECRUITER,
                 ),
             ),
